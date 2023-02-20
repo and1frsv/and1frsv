@@ -14,9 +14,9 @@ Python, Django, Django REST Framework, REST API, Linux, Docker ...
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=and1frsv&hide=contribs&show_icons=true&theme=dark">
-  <img  align="center" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=themasterid&hide=contribs&show_icons=true&theme=dark" />
+  <img  align="center" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=and1frsv&hide=contribs&show_icons=true&theme=dark" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=and1frsv&layout=compact&theme=dark">
-  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themasterid&layout=compact&theme=dark" />
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=and1frsv&layout=compact&theme=dark" />
 </a>
 </div>
