@@ -12,6 +12,5 @@ Python, Django, Django REST Framework, REST API, Linux, Docker ...
 [<img src="./svg/telegram.svg">](https://t.me/and1frsv)
 [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/and1frsv/)
 
-<div>
+
 <a href="https://github-readme-stats.vercel.app/api?username=and1frsv&hide=contribs&show_icons=true&theme=dark">
-</div>
